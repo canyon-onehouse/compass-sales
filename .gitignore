@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Design prototype archives and other large local-only source material.
+# Kept out of git deliberately — see the Wayfinder map for the asset decision.
+uploads/
