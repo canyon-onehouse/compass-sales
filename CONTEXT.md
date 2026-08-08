@@ -21,8 +21,12 @@ A general lead captured by the site's main contact form, qualified on budget, ti
 _Avoid_: contact, submission
 
 **Plan request**:
-A lead expressing interest in a specific Plan, captured by a dedicated form distinct from the Inquiry form and attributed to the Plan it came from.
+A lead expressing interest in a specific Plan, captured by a dedicated form distinct from the Inquiry form and attributed to the Plan it came from. Qualified on drawing fidelity, build location, land ownership, and timeline — never on a monetary budget.
 _Avoid_: plan inquiry, purchase request
 
+**Fidelity indicator**:
+The Plan-request form's non-monetary budget proxy: which level of drawings the prospect needs (spanning layout exploration through construction-ready sets). Reads price sensitivity without asking for money.
+_Avoid_: budget (on Plan requests)
+
 **Design Essentials**:
-A named service package — a 30-day process ending in schematic plans. The name appears publicly (FAQ) as a teaser; its contents and pricing stay unpublished while services are market-tested through sales calls.
+A named service package — a 30-day process ending in schematic plans, offered to bespoke Project clients only (never to Plan leads). The name appears publicly (FAQ) as a teaser; its contents and pricing stay unpublished while services are market-tested through sales calls.
