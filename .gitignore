@@ -4,3 +4,7 @@
 # Design prototype archives and other large local-only source material.
 # Kept out of git deliberately — see the Wayfinder map for the asset decision.
 uploads/
+
+# Lessons for personal education about development and best practices.
+# Kept out of git to avoid bloat or creating errant context for others reading the code architecture with an LLM
+teaching/
